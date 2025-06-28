@@ -1,3 +1,9 @@
-# Triad Lissajous 3D curve .stl generator in Python
+# ¡FELIZ CUMPLE EIDER!
 
-The program asks the user for a triad of notes to form a chord and the program saves a .stl file with the 3D mesh.
+No tengo mucha idea de usar esto, pero es lo mejor que he podido hacer jajajaj. 
+
+Espero que te guste el regalito, te dejo un gif chulito de cada una de las proyecciones de tu acorde jeje.
+
+Te queremos un montón.
+
+![Cmaj7 sin quinta](visuals/lissajous_projections_animation.gif)
